@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
+<!-- #### Software Developing and Programming enthusiast!
+#### CSE 2023 Undergrad @[COEP](https://www.coep.org.in).
+
+
+- Programming Languages, Databases and Tools I'm comfortable with:
+- 🌱 I’m currently learning ReactJS, React Native and Android Development. 
+- 📫 How to reach me:
+- 
+
+[![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=pathadeTush&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathadeTush)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **pathadeTush/pathadeTush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
