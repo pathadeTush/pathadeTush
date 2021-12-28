@@ -1,8 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/PrajjwalDatir/PrajjwalDatir/master/assets/wave.gif" width="30px" height="25px">
 
-#### I'm Tushar, a Software Developing and Programming enthusiast! 
-#### CSE 2023 Undergrad @[COEP](https://www.coep.org.in).
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=pathadeTush.pathadeTush)
+#### <img src="https://user-images.githubusercontent.com/69508845/147593555-efaf08f1-29aa-404f-865a-eedbd4eea455.png" width="22px" height="22px"> I'm Tushar, a Software Developing and Programming enthusiast! 
+#### <img src="https://user-images.githubusercontent.com/69508845/147593407-4e9d4283-3b38-46e6-ba22-de52dd001d2e.png" width="22px" height="22px"> CSE 2023 Undergrad @[COEP](https://www.coep.org.in).
+![Visitor Count](https://profile-counter.glitch.me/{pathadeTush}/count.svg)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pathadeTush.visitor-badge)
 
 - <img width="20px" height="18px" src="https://user-images.githubusercontent.com/69508845/147590010-f04cc84d-f587-4e93-b634-4bbbc6d5fdd3.png"> Programming Languages, Databases and Tools I'm comfortable with: <br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
