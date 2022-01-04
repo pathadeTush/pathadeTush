@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/PrajjwalDatir/PrajjwalDatir/master/assets/wave.gif" width="30px" height="25px">
+### Hi there <img src="https://user-images.githubusercontent.com/69508845/148013043-e04eb0ce-8326-436e-b22c-db521fda4803.gif" width="30px" height="25px">
 
 #### 🧑‍ I'm Tushar, a Software Developing and Programming enthusiast! 
 #### 🎓 CSE 2023 Undergrad @[COEP](https://www.coep.org.in).
