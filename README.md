@@ -2,7 +2,8 @@
 
 #### 🧑‍ I'm Tushar, a Software Developing and Programming enthusiast! 
 #### 🎓 CSE 2023 Undergrad @[COEP](https://www.coep.org.in).
-![Visitor Count](https://profile-counter.glitch.me/{pathadeTush}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{pathadeTush}/count.svg) -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pathadeTush.pathadeTush)
 
 📛 Programming Languages, Databases and Tools I'm comfortable with: <br>
 
