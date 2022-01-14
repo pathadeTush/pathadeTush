@@ -9,16 +9,24 @@
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
   ![C](https://img.shields.io/badge/\-CC342D?style=flat-square&logo=C&logoColor=ffe8e8) 
-  ![C++](https://img.shields.io/badge/-++-%23F7DF1C?style=flat-square&logo=C&logoColor=ffffff&color=00599c) <br>
+  ![C++](https://img.shields.io/badge/-++-%23F7DF1C?style=flat-square&logo=C&logoColor=ffffff&color=00599c)
+  ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+  ![Express](	https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=flask)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
   ![Flask](https://img.shields.io/badge/-Flask-E10098?style=flat-square&logo=flask&logoColor=ffffff&color=000000)
+  ![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&&logoColor=ffffff&color=F05032)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
 
 🌱 I’m currently learning ReactJS, React Native and Android Development. <br>
 
 📫 How to reach me: <br>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/tushar-pathade-20503320b)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tusharpathade475@gmail.com)
+[![gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/tushar475)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathadeTush)](https://github.com/anuraghazra/github-readme-stats)
 
