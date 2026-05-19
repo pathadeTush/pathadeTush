@@ -1,7 +1,6 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/69508845/148013043-e04eb0ce-8326-436e-b22c-db521fda4803.gif" width="30px" height="25px">
 
-#### 🧑‍ I'm Tushar, a Software Developing and Programming enthusiast! 
-#### 🎓 CSE 2023 Undergrad @[COEP](https://www.coep.org.in).
+#### 🧑‍ I'm Tushar, a Software Engineer with 3+ Years of experience! 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{pathadeTush}/count.svg) -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pathadeTush.pathadeTush)
 
@@ -21,17 +20,18 @@
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 
-🌱 I’m currently learning ReactJS, React Native and Android Development. <br>
+🌱 I’m currently exploring the AI 🌍 ! <br>
 
 📫 How to reach me: <br>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/tushar-pathade-20503320b)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tusharpathade475@gmail.com)
 [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/tushar475)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathadeTush)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=pathadeTush&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+
 **pathadeTush/pathadeTush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
